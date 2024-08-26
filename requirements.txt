@@ -155,7 +155,7 @@ langchain-text-splitters==0.2.2
     #   langchain
 langchain-wenxin==0.10.1
     # via -r requirements.txt
-langsmith==0.1.104
+#langsmith==0.1.104
     # via
     #   -r requirements.txt
     #   langchain
